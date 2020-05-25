@@ -11,7 +11,7 @@ Test run:
 			abbbbbbb
 			ab
 			b
-			aa<
+			aa
 			aaa
 			abab
 			aabb
