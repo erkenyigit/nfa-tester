@@ -1,29 +1,29 @@
-# nfa-tester<br>
+# nfa-tester
 
-A program to check if the given string is acceptable by the nfa which is converted from the regex form input.<br><br>
+A program to check if the given string is acceptable by the nfa which is converted from the regex form input.
 
-Test run:<br/><br/>
+Test run:
 
-	/*<br/>
-		Input:<br/>
-			a.(b*+a)+b //regex input. <br/>
-			8	//number of strings to test.<br/>
-			abbbbbbb<br/>
-			ab<br/>
-			b<br/>
-			aa<br/>
-			aaa<br/>
-			abab<br/>
-			aabb<br/>
-			bb<br/>
+	/*
+		Input:
+			a.(b*+a)+b //regex input. 
+			8	//number of strings to test.
+			abbbbbbb
+			ab
+			b
+			aa<
+			aaa
+			abab
+			aabb
+			bb
 		Output:<br>
-			Accepted<br/>
-			Accepted<br/>
-			Accepted<br/>
-			Accepted<br/>
-			Rejected<br/>
-			Rejected<br/>
-			Rejected<br/>
-			Rejected<br/>
+			Accepted
+			Accepted
+			Accepted
+			Accepted
+			Rejected
+			Rejected
+			Rejected
+			Rejected
 	*/
  
