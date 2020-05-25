@@ -16,7 +16,7 @@ Test run:
 			abab
 			aabb
 			bb
-		Output:<br>
+		Output:
 			Accepted
 			Accepted
 			Accepted
